@@ -1,2 +1,8 @@
-# BeHappyToEliminate
-Study-BeHappyToEliminate-21.04.16
+# Study- BeHappyToEliminate-21.04.16
+
+##### 引擎版本：Unity-2019.4.12
+##### 来源：齐齐课收费课 Plane老师
+##### Unity3D制作《开心消消乐》(Unity2017.3)
+##### 就是一个点点消除，并不是对对碰类型玩法，是消星星类型玩法
+
+##### 结束日期： 历时：
